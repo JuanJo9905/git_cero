@@ -10,3 +10,9 @@ div{
 h2{
     border-style: groove;
 }
+
+.container_img{
+    padding-left: 1em;
+    padding-right: 1em;
+    height: 3em;
+}
